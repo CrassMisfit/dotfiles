@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/xdg/termite'
+let g:netrw_dirhist_2='/etc/xdg'
+let g:netrw_dirhist_3='/home/nikd'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/home/nikd'
+let g:netrw_dirhist_8='/home/nikd/.config'
+let g:netrw_dirhist_9='/home/nikd/.config/nvim'
