@@ -26,9 +26,9 @@ font pango:DejaVu Sans Mono 8
 # X core fonts rendering does not support right-to-left and this being a bitmap
 # font, it doesn’t scale on retina/hidpi displays.
 
-## Startup Scripts
+## Startup Commands
 # Set random background at startup
-exec --no-startup-id feh --randomize --bg-fill /usr/share/archlinux/wallpaper*
+#exec --no-startup-id feh --randomize --bg-fill /usr/share/archlinux/wallpaper*
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod

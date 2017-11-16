@@ -1,0 +1,27 @@
+################################
+#### Programs needed for i3 ####
+################################
+
+Feh 
+	for wallpaper
+	be sure to change destination of wallpaper folder
+
+Ranger
+	file explorer
+
+Rofi
+	program launcher
+
+Oni
+	Neovim based IDE
+
+Pulsemixer
+	ncurses based pulseaudio mixer / volume control
+
+Jam
+	Google play Music NCurses Player
+
+Sakura
+	if termite doesnt work for jam
+
+
